@@ -1,0 +1,9 @@
+-- Logging started at Mon Jul 14 17:03:35 2014 --
+I: Application Information:
+   Application Author: N3067685
+   Application Name:   PRG [ User ID: 'N3067685' ] :: Matthew King-Mason.
+I: OpenGL info:
+   Vendor:   Intel
+   Renderer: Intel(R) HD Graphics
+   Version:  3.1.0 - Build 9.17.10.3347
+-- Logging ended at Mon Jul 14 17:03:37 2014 --

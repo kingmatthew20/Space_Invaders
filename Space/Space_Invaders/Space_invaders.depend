@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1402415170 source:c:\users\matthew\documents\university work\c++\space\flaky_snakey\src\main.cpp
+	<stdexcept>
+	<iostream>
+	<prg_interactive.hpp>
+
+1381243672 c:\users\matthew\documents\university work\c++\space\inc\prg_interactive.hpp
+	<prg_core.hpp>
+	<prg/interactive/app.hpp>
+	<prg/interactive/app_state.hpp>
+	<prg/interactive/timer.hpp>
+
+1381243672 c:\users\matthew\documents\university work\c++\space\inc\prg_core.hpp
+	<prg/core/image.hpp>
+	<prg/core/image_file.hpp>
+	<prg/core/font.hpp>
+	<prg/core/log.hpp>
+	<prg/core/font.hpp>
+	<prg/core/math.hpp>
+
+1389567817 c:\users\matthew\documents\university work\c++\space\inc\prg\core\image.hpp
+	<prg/core/types.hpp>
+	<prg/core/colour.hpp>
+	<string>
+	<stdexcept>
+
+1381243672 c:\users\matthew\documents\university work\c++\space\inc\prg\core\types.hpp
+	<bits/c++0x_warning.h>
+
+1381243672 c:\users\matthew\documents\university work\c++\space\inc\prg\core\colour.hpp
+	<prg/core/types.hpp>
+
+1381244084 c:\users\matthew\documents\university work\c++\space\inc\prg\core\image_file.hpp
+	<string>
+	<stdexcept>
+
+1389567817 c:\users\matthew\documents\university work\c++\space\inc\prg\core\font.hpp
+	<string>
+	<prg/core/types.hpp>
+
+1389567817 c:\users\matthew\documents\university work\c++\space\inc\prg\core\log.hpp
+	<prg/core/types.hpp>
+	<fstream>
+	<string>
+	<sstream>
+
+1381243672 c:\users\matthew\documents\university work\c++\space\inc\prg\core\math.hpp
+	<prg/core/types.hpp>
+	<cmath>
+
+1389567817 c:\users\matthew\documents\university work\c++\space\inc\prg\interactive\app.hpp
+	<stdexcept>
+	<prg/core/types.hpp>
+	<prg/interactive/app_state.hpp>
+
+1381243672 c:\users\matthew\documents\university work\c++\space\inc\prg\interactive\app_state.hpp
+	<prg/core/types.hpp>
+	<prg/core/image.hpp>
+	<climits>
+
+1381243672 c:\users\matthew\documents\university work\c++\space\inc\prg\interactive\timer.hpp
+	<prg/core/types.hpp>
+	<string>
+
+1405271470 source:c:\users\matthew\documents\university work\c++\space\space_invaders\src\main.cpp
+	<stdexcept>
+	<iostream>
+	<prg_interactive.hpp>
+	"../inc/main_game_state.hpp"
+	"../inc/PauseGameState.hpp"
+
+1405353687 source:c:\users\matthew\documents\university work\c++\space\space_invaders\src\spaceship.cpp
+	"../inc/spaceship.hpp"
+	<iostream>
+
+1405175829 c:\users\matthew\documents\university work\c++\space\space_invaders\inc\spaceship.hpp
+	<string>
+	<iostream>
+	<prg_interactive.hpp>
+	<list>
+
+1405354327 c:\users\matthew\documents\university work\c++\space\space_invaders\inc\main_game_state.hpp
+	<prg_interactive.hpp>
+	"spaceship.hpp"
+	"Missile.hpp"
+	"aliens.hpp"
+
+1405357373 source:c:\users\matthew\documents\university work\c++\space\space_invaders\src\main_game_state.cpp
+	"../inc/main_game_state.hpp"
+
+1403629316 source:c:\users\matthew\documents\university work\c++\space\space_invaders\src\pausegamestate.cpp
+	"../inc/PauseGameState.hpp"
+
+1403283962 c:\users\matthew\documents\university work\c++\space\space_invaders\inc\pausegamestate.hpp
+	<prg_interactive.hpp>
+
+1405352505 c:\users\matthew\documents\university work\c++\space\space_invaders\inc\missile.hpp
+	<prg_interactive.hpp>
+	<list>
+	<iostream>
+
+1405352505 source:c:\users\matthew\documents\university work\c++\space\space_invaders\src\missile.cpp
+	"../inc/Missile.hpp"
+
+1405357354 source:c:\users\matthew\documents\university work\c++\space\space_invaders\src\aliens.cpp
+	"../inc/aliens.hpp"
+
+1405353070 c:\users\matthew\documents\university work\c++\space\space_invaders\inc\aliens.hpp
+	<prg_interactive.hpp>
+	<list>
+	<iostream>
+

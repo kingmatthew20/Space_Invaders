@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="C++ PRG Interactive">
+		<Project filename="example_app/example_app.cbp" />
+		<Project filename="flaky_snakey/flaky_snakey.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
